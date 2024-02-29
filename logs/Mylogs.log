@@ -1,0 +1,1225 @@
+[INFO ] 2024-02-27 18:51:53.663 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-27 18:51:53.679 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-27 18:51:53.869 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-27 18:51:58.785 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-27 18:52:02.848 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-27 18:52:02.864 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-27 18:52:02.940 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-27 18:52:23.763 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-27 18:52:23.779 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-27 18:52:23.936 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-27 18:52:28.176 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-27 18:52:32.666 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-27 18:52:32.682 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-27 18:52:32.763 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-27 18:55:23.680 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 20:31:56.345 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-27 20:33:50.677 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 20:34:05.574 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 20:41:20.164 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 20:41:58.301 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 20:56:11.250 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:00:28.509 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:04:46.299 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:05:31.341 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:11:49.259 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:28:56.846 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:32:05.396 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:38:00.036 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:39:31.416 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:43:11.400 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:46:48.578 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 21:48:48.582 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 22:41:06.401 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 22:41:41.424 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 22:42:16.499 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 22:42:49.067 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 22:42:51.516 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 22:42:53.781 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 22:42:55.941 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 22:42:57.790 [main] MyProfile - user is on login page
+[INFO ] 2024-02-27 22:42:59.519 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 09:30:58.477 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 09:31:47.700 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 09:32:01.473 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 09:45:17.460 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 09:47:18.193 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 09:50:27.739 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 09:57:21.682 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 09:58:07.025 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 09:58:44.641 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 10:00:27.092 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 10:01:07.523 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 10:01:47.385 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 11:37:31.348 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 11:41:08.611 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 12:01:36.256 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-28 12:01:43.643 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-28 12:01:43.651 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-28 12:01:43.808 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-28 12:01:43.931 [main] StoreLocator - User switches to the new tab
+[INFO ] 2024-02-28 12:01:44.153 [main] StoreLocator - User views store page and click on search button with empty fields
+[INFO ] 2024-02-28 12:02:15.246 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-28 12:02:20.902 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-28 12:02:20.914 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-28 12:02:21.066 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-28 12:02:21.211 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-28 12:02:21.383 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-28 12:02:39.504 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-28 12:02:39.596 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-28 12:18:17.774 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-28 12:18:21.635 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-28 12:18:25.039 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-28 12:18:25.194 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-28 12:18:25.277 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-28 12:20:26.298 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-28 12:20:30.700 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-28 12:20:34.260 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-28 12:20:34.427 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-28 12:20:34.642 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-28 12:22:15.063 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:22:20.675 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:22:23.310 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:22:24.300 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:22:26.527 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:22:30.828 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:22:33.392 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:22:33.721 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:24:51.968 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:24:56.108 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:24:59.622 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:25:00.536 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:25:02.749 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:25:08.856 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:25:11.422 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:25:11.772 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:27:05.068 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:27:10.607 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:27:13.434 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:27:14.319 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:27:16.649 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:27:22.009 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:27:24.415 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:27:24.756 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:28:41.563 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:28:46.793 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:28:49.277 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:28:50.206 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:28:52.529 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:28:56.633 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:28:59.066 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:28:59.402 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:30:27.275 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:30:32.388 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:30:36.163 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:30:37.038 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:30:39.292 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:30:46.026 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:30:48.239 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:30:48.594 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:36:06.482 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:36:13.710 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:36:17.056 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:36:19.714 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:36:46.984 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:36:52.460 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:36:55.924 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:36:56.832 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:36:59.192 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:37:05.728 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:37:09.357 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:37:09.682 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:37:59.975 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:38:05.427 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:38:09.816 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:38:10.729 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 12:38:13.029 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-28 12:38:16.368 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-28 12:38:18.439 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-28 12:38:18.774 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-28 13:45:40.619 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 13:48:49.591 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 13:50:16.680 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 13:51:49.728 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 13:55:19.964 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 13:57:05.513 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 13:57:48.526 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:01:40.331 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:02:24.641 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:04:21.264 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:05:00.463 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:05:17.234 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:07:33.770 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:10:08.385 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:10:48.016 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:23:23.724 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:24:03.826 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:24:43.415 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:25:22.316 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:26:02.497 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:26:39.545 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:27:17.044 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:27:54.520 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:28:30.918 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:37:03.921 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-28 14:37:03.968 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-28 14:37:04.150 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-28 14:37:07.560 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-28 14:37:11.732 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-28 14:37:11.733 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-28 14:37:11.824 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-28 14:37:39.508 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-28 14:37:43.225 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-28 14:37:43.236 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-28 14:37:43.322 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-28 14:37:43.525 [main] StoreLocator - User switches to the new tab
+[INFO ] 2024-02-28 14:37:43.555 [main] StoreLocator - User views store page and click on search button with empty fields
+[INFO ] 2024-02-28 14:40:18.978 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:42:42.292 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:43:24.340 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 14:45:12.770 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-28 14:45:16.826 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-28 16:19:42.764 [main] MyProfile - user is on login page
+[INFO ] 2024-02-28 16:19:42.959 [main] MyProfile - user enters otp
+[INFO ] 2024-02-28 16:20:15.242 [main] MyProfile - user clicks on my profile page
+[INFO ] 2024-02-28 16:20:15.258 [main] MyProfile - Verify profile page via url
+[INFO ] 2024-02-28 16:20:15.258 [main] MyProfile - Profile Page Verified
+[INFO ] 2024-02-28 16:45:30.527 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-28 16:45:30.712 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-28 16:46:12.197 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-28 16:46:12.386 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-28 16:46:42.552 [main] Addtoshortlist - user hovers on BoysFashion
+[INFO ] 2024-02-28 16:46:47.307 [main] Addtoshortlist - user clicks on Bestseller
+[INFO ] 2024-02-28 16:46:47.356 [main] Addtoshortlist - user scrolls the page
+[INFO ] 2024-02-28 16:46:47.907 [main] Addtoshortlist - user clicks and adds a product to shortlist
+[INFO ] 2024-02-28 16:48:42.361 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-28 16:48:45.076 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-28 16:49:21.883 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-28 16:49:24.558 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-28 16:49:54.801 [main] Addtoshortlist - user hovers on BoysFashion
+[INFO ] 2024-02-28 16:50:01.677 [main] Addtoshortlist - user clicks on Bestseller
+[INFO ] 2024-02-28 16:50:01.723 [main] Addtoshortlist - user scrolls the page
+[INFO ] 2024-02-28 16:50:02.841 [main] Addtoshortlist - user clicks and adds a product to shortlist
+[INFO ] 2024-02-28 16:51:29.735 [main] MovetoCart - user is on Login page
+[INFO ] 2024-02-28 16:52:00.413 [main] MovetoCart - user waits for manual otp login
+[INFO ] 2024-02-28 16:52:17.429 [main] MovetoCart - user is on Login page
+[INFO ] 2024-02-28 16:52:48.027 [main] MovetoCart - user waits for manual otp login
+[INFO ] 2024-02-28 16:52:52.005 [main] MovetoCart - user tries to move product from shortlist to cart
+[INFO ] 2024-02-28 16:52:52.329 [main] MovetoCart - user clicks on done
+[INFO ] 2024-02-28 16:52:55.882 [main] MovetoCart - user has successfully added product to cart
+[INFO ] 2024-02-28 16:53:53.930 [main] DeleteFromShortlist - user is on login page
+[INFO ] 2024-02-28 16:54:25.565 [main] DeleteFromShortlist - user logs in 
+[INFO ] 2024-02-28 16:54:28.395 [main] DeleteFromShortlist - user deletes product from shortlist
+[INFO ] 2024-02-28 16:54:28.917 [main] DeleteFromShortlist - user clicks OK on the popup
+[INFO ] 2024-02-28 16:54:28.932 [main] DeleteFromShortlist - user has successfully deleted product from shortlist
+[INFO ] 2024-02-29 08:31:49.660 [main] MyProfile - user is on login page
+[INFO ] 2024-02-29 08:31:54.651 [main] MyProfile - user enters otp
+[INFO ] 2024-02-29 08:32:33.316 [main] UpdateProfile - user is on login page
+[INFO ] 2024-02-29 08:32:38.352 [main] UpdateProfile - user enters otp
+[INFO ] 2024-02-29 08:33:16.069 [main] Contact - user is on login page
+[INFO ] 2024-02-29 08:33:58.693 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 08:34:04.243 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 08:34:45.735 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 08:34:58.725 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 08:35:37.740 [main] Address - user is on login page
+[INFO ] 2024-02-29 08:36:28.899 [main] Address - user is on login page
+[INFO ] 2024-02-29 08:37:34.010 [main] Address - user is on login page
+[INFO ] 2024-02-29 08:38:35.867 [main] Address - user is on login page
+[INFO ] 2024-02-29 08:39:27.097 [main] Address - user is on login page
+[INFO ] 2024-02-29 08:40:11.792 [main] Address - user is on login page
+[INFO ] 2024-02-29 08:41:10.615 [main] Address - user is on login page
+[INFO ] 2024-02-29 08:42:03.412 [main] Address - user is on login page
+[INFO ] 2024-02-29 08:43:00.029 [main] Address - user is on login page
+[INFO ] 2024-02-29 08:43:44.284 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 08:44:33.654 [main] Subscription - User is on Login Page
+[INFO ] 2024-02-29 08:45:18.272 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-29 08:45:26.318 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-29 08:46:07.040 [main] MovetoCart - user is on Login page
+[INFO ] 2024-02-29 08:46:42.978 [main] MovetoCart - user waits for manual otp login
+[INFO ] 2024-02-29 08:46:56.019 [main] DeleteFromShortlist - user is on login page
+[INFO ] 2024-02-29 08:47:31.149 [main] DeleteFromShortlist - user logs in 
+[INFO ] 2024-02-29 08:48:33.143 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 08:48:39.392 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 08:48:42.856 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 08:48:43.570 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 08:48:45.785 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 08:49:58.400 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 08:50:04.788 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 08:50:07.790 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 08:50:11.300 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 08:50:18.028 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 08:50:20.532 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 08:50:29.934 [main] Preschool_Locator - user is in the HomePage
+[INFO ] 2024-02-29 08:50:32.970 [main] Preschool_Locator - user can click on storeandpreschool
+[INFO ] 2024-02-29 08:50:33.294 [main] Preschool_Locator - user can click on findpreschool
+[INFO ] 2024-02-29 08:50:41.632 [main] Preschool_Locator - user switches to the new tab
+[INFO ] 2024-02-29 08:50:41.753 [main] Preschool_Locator - user clicks on the available city
+[INFO ] 2024-02-29 08:50:41.910 [main] Preschool_Locator - click on findmy preschool
+[INFO ] 2024-02-29 08:50:45.787 [main] Preschool_Locator - user must able to verify the firstcry Intellitots preschools in Banglore
+[INFO ] 2024-02-29 08:50:45.929 [main] Preschool_Locator - Verify page title
+[INFO ] 2024-02-29 08:51:04.317 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 08:51:07.020 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 08:51:07.557 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 08:51:07.929 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 09:00:33.750 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 09:00:42.976 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 09:00:47.672 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 09:00:50.919 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 09:00:55.410 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 09:03:32.662 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 09:03:39.445 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 09:03:43.202 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 09:03:44.481 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 09:03:50.077 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 09:05:03.773 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 09:05:11.429 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 09:05:14.084 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 09:05:17.844 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 09:05:25.371 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 09:05:29.385 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 09:05:40.997 [main] MyProfile - user is on login page
+[INFO ] 2024-02-29 09:05:41.670 [main] MyProfile - user enters otp
+[INFO ] 2024-02-29 09:06:23.173 [main] UpdateProfile - user is on login page
+[INFO ] 2024-02-29 09:06:29.960 [main] UpdateProfile - user enters otp
+[INFO ] 2024-02-29 09:11:09.881 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 09:11:13.215 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 09:11:22.739 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 09:11:23.212 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 09:11:42.273 [main] FilterCartSteps - apply filters according to your requirements
+[INFO ] 2024-02-29 09:11:45.925 [main] FilterCartSteps - select a product and add to cart
+[INFO ] 2024-02-29 09:12:05.139 [main] SearchSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 09:12:09.012 [main] SearchSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 09:12:09.524 [main] SearchSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 09:12:15.363 [main] SearchSteps - Click the Search button
+[INFO ] 2024-02-29 09:12:17.096 [main] SearchSteps - Verify the title
+[INFO ] 2024-02-29 09:12:27.439 [main] SearchSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 09:12:33.399 [main] SearchSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 09:12:34.079 [main] SearchSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 09:12:39.136 [main] SearchSteps - Click the Search button
+[INFO ] 2024-02-29 09:12:39.765 [main] SearchSteps - Verify the title
+[INFO ] 2024-02-29 09:12:50.750 [main] SearchSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 09:12:59.412 [main] SearchSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 09:13:00.127 [main] SearchSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 09:13:05.693 [main] SearchSteps - Click the Search button
+[INFO ] 2024-02-29 09:13:06.145 [main] SearchSteps - Verify the title
+[INFO ] 2024-02-29 09:13:20.572 [main] SearchSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 09:13:26.916 [main] SearchSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 09:13:28.269 [main] SearchSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 09:13:29.854 [main] SearchSteps - Click the Search button
+[INFO ] 2024-02-29 09:13:30.576 [main] SearchSteps - Verify the title
+[INFO ] 2024-02-29 09:27:21.121 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 09:27:24.597 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 09:27:35.617 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 09:27:35.959 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 09:28:07.308 [main] SearchSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 09:28:10.644 [main] SearchSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 09:28:11.301 [main] SearchSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 09:28:18.218 [main] SearchSteps - Click the Search button
+[INFO ] 2024-02-29 09:28:18.820 [main] SearchSteps - Verify the title
+[INFO ] 2024-02-29 09:28:31.264 [main] SearchSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 09:28:37.385 [main] SearchSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 09:28:38.142 [main] SearchSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 09:28:44.937 [main] SearchSteps - Click the Search button
+[INFO ] 2024-02-29 09:28:58.742 [main] SearchSteps - Verify the title
+[INFO ] 2024-02-29 09:29:12.967 [main] SearchSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 09:29:19.837 [main] SearchSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 09:29:20.423 [main] SearchSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 09:29:27.834 [main] SearchSteps - Click the Search button
+[INFO ] 2024-02-29 09:29:28.732 [main] SearchSteps - Verify the title
+[INFO ] 2024-02-29 09:29:38.948 [main] SearchSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 09:29:41.369 [main] SearchSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 09:29:41.738 [main] SearchSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 09:29:42.675 [main] SearchSteps - Click the Search button
+[INFO ] 2024-02-29 09:29:43.434 [main] SearchSteps - Verify the title
+[INFO ] 2024-02-29 09:41:21.420 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 09:41:29.482 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 09:41:33.235 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 09:41:33.727 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 09:41:34.035 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 10:25:11.286 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 10:25:16.194 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 10:25:19.718 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 10:25:19.996 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 10:25:22.261 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 10:26:36.656 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 10:26:40.808 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 10:26:43.364 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 10:26:47.794 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 10:26:53.818 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 10:26:56.905 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 10:27:06.228 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 10:27:06.420 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 10:27:16.857 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 10:27:17.119 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 10:27:38.421 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 10:27:38.658 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 10:27:39.029 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 10:27:43.619 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 10:27:43.913 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 10:27:57.368 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 10:27:57.683 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 10:27:58.136 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 10:28:02.951 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 10:28:03.307 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 10:28:12.872 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 10:28:13.129 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 10:28:13.476 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 10:28:18.960 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 10:28:19.717 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 10:28:28.369 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 10:28:28.689 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 10:28:29.283 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 10:28:29.935 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 10:28:30.247 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 10:28:40.242 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 10:28:40.254 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 10:28:40.637 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 10:28:45.429 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 10:28:52.911 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 10:28:52.930 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 10:28:58.406 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 10:29:15.125 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 10:29:15.125 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 10:29:15.546 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 10:29:20.567 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 10:29:28.054 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 10:29:28.070 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 10:29:28.805 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 10:29:41.427 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 10:29:47.123 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 10:29:48.031 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 10:29:48.645 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 10:29:49.635 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 10:29:50.374 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 10:30:09.460 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 10:30:09.604 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 10:30:21.933 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-29 10:30:27.361 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-29 10:30:27.610 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-29 10:30:27.914 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-29 10:30:28.224 [main] StoreLocator - User switches to the new tab
+[INFO ] 2024-02-29 10:30:28.690 [main] StoreLocator - User views store page and click on search button with empty fields
+[INFO ] 2024-02-29 10:31:03.071 [main] Preschool_Locator - user is in the HomePage
+[INFO ] 2024-02-29 10:31:03.351 [main] Preschool_Locator - user can click on storeandpreschool
+[INFO ] 2024-02-29 10:31:04.016 [main] Preschool_Locator - user can click on findpreschool
+[INFO ] 2024-02-29 10:31:09.227 [main] Preschool_Locator - user switches to the new tab
+[INFO ] 2024-02-29 10:31:09.412 [main] Preschool_Locator - user clicks on the available city
+[INFO ] 2024-02-29 10:31:09.677 [main] Preschool_Locator - click on findmy preschool
+[INFO ] 2024-02-29 10:31:14.109 [main] Preschool_Locator - user must able to verify the firstcry Intellitots preschools in Banglore
+[INFO ] 2024-02-29 10:31:14.155 [main] Preschool_Locator - Verify page title
+[INFO ] 2024-02-29 11:20:45.080 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 11:20:52.275 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 11:20:56.693 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 11:20:57.481 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 11:20:57.620 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 11:22:39.222 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:22:39.280 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:24:11.130 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:24:11.188 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:24:58.236 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:25:03.189 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 11:25:06.418 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 11:25:06.560 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:25:08.064 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 11:25:09.578 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 11:26:59.399 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:27:05.116 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 11:27:07.981 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 11:27:09.886 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 11:27:10.567 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:27:14.101 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 11:27:16.375 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 11:27:17.017 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 11:28:43.762 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 11:28:52.055 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 11:28:55.994 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 11:28:56.413 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 11:28:56.617 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 11:31:04.226 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 11:31:04.456 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 11:31:13.408 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 11:31:13.550 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 11:31:28.673 [main] FilterCartSteps - apply filters according to your requirements
+[INFO ] 2024-02-29 11:31:32.532 [main] FilterCartSteps - select a product and add to cart
+[INFO ] 2024-02-29 11:32:07.355 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 11:32:07.434 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 11:32:07.806 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 11:32:12.692 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 11:32:18.517 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 11:32:18.517 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 11:32:18.776 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 11:32:26.503 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 11:32:26.519 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 11:32:26.855 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 11:32:32.852 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 11:32:38.716 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 11:32:38.716 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 11:32:44.239 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 11:34:55.558 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 11:35:00.451 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 11:35:03.699 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 11:35:04.040 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 11:35:04.297 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 11:36:17.061 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:36:22.783 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 11:36:24.960 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 11:36:26.508 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 11:36:27.117 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 11:36:28.778 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 11:36:30.262 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 11:36:30.764 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 11:36:38.616 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 11:36:38.855 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 11:36:47.267 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 11:36:47.774 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 11:37:07.031 [main] FilterCartSteps - apply filters according to your requirements
+[INFO ] 2024-02-29 11:37:10.655 [main] FilterCartSteps - select a product and add to cart
+[INFO ] 2024-02-29 11:37:20.762 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 11:37:20.947 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 11:37:22.422 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 11:37:29.694 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 11:37:30.970 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 11:37:37.577 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 11:37:37.713 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 11:37:38.238 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 11:37:41.990 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 11:37:42.357 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 11:37:53.789 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 11:37:54.378 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 11:37:55.311 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 11:38:02.073 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 11:38:02.351 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 11:38:09.121 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 11:38:09.333 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 11:38:09.539 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 11:38:10.101 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 11:38:10.322 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 11:38:17.250 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 11:38:17.280 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 11:38:17.760 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 11:38:22.215 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 11:38:28.115 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 11:38:28.115 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 11:38:28.345 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 11:38:36.840 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 11:38:36.877 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 11:38:37.195 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 11:38:43.294 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 11:38:58.702 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 11:38:58.768 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 11:39:00.126 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 11:39:05.617 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 11:39:09.538 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 11:39:09.764 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 11:39:09.942 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 11:39:10.167 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 11:39:10.703 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 11:39:28.621 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 11:39:28.737 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 11:39:32.576 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-29 11:39:37.019 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-29 11:39:37.162 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-29 11:39:37.424 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-29 11:39:37.795 [main] StoreLocator - User switches to the new tab
+[INFO ] 2024-02-29 11:39:38.221 [main] StoreLocator - User views store page and click on search button with empty fields
+[INFO ] 2024-02-29 11:39:54.787 [main] Preschool_Locator - user is in the HomePage
+[INFO ] 2024-02-29 11:39:56.126 [main] Preschool_Locator - user can click on storeandpreschool
+[INFO ] 2024-02-29 11:39:59.224 [main] Preschool_Locator - user can click on findpreschool
+[INFO ] 2024-02-29 11:40:05.303 [main] Preschool_Locator - user switches to the new tab
+[INFO ] 2024-02-29 11:40:05.423 [main] Preschool_Locator - user clicks on the available city
+[INFO ] 2024-02-29 11:40:05.621 [main] Preschool_Locator - click on findmy preschool
+[INFO ] 2024-02-29 11:40:09.509 [main] Preschool_Locator - user must able to verify the firstcry Intellitots preschools in Banglore
+[INFO ] 2024-02-29 11:40:09.526 [main] Preschool_Locator - Verify page title
+[INFO ] 2024-02-29 12:50:02.992 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 12:50:09.223 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 12:50:09.837 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 12:50:10.138 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 12:50:10.413 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 12:50:11.007 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 12:50:29.641 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 12:50:29.932 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 12:51:34.581 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 12:51:39.882 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 12:51:40.308 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 12:51:40.546 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 12:51:40.836 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 12:51:41.540 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 12:52:00.815 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 12:52:01.084 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 13:55:49.483 [main] MyProfile - user is on login page
+[INFO ] 2024-02-29 13:55:50.251 [main] MyProfile - user enters otp
+[INFO ] 2024-02-29 13:58:33.711 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 13:58:49.224 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 13:59:11.005 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 13:59:15.438 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 13:59:19.150 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 13:59:20.907 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 13:59:28.181 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 13:59:30.424 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 13:59:31.214 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 13:59:42.213 [main] MyProfile - user is on login page
+[INFO ] 2024-02-29 13:59:46.280 [main] MyProfile - user enters otp
+[INFO ] 2024-02-29 14:00:32.844 [main] UpdateProfile - user is on login page
+[INFO ] 2024-02-29 14:00:45.443 [main] UpdateProfile - user enters otp
+[INFO ] 2024-02-29 14:01:41.007 [main] Contact - user is on login page
+[INFO ] 2024-02-29 14:03:16.172 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 14:04:12.200 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 14:04:35.357 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 14:05:41.443 [main] Address - user is on login page
+[INFO ] 2024-02-29 14:08:05.575 [main] Address - user is on login page
+[INFO ] 2024-02-29 14:08:47.195 [main] Address - user is on login page
+[INFO ] 2024-02-29 14:09:32.436 [main] Address - user is on login page
+[INFO ] 2024-02-29 14:10:18.521 [main] Address - user is on login page
+[INFO ] 2024-02-29 14:11:05.580 [main] Address - user is on login page
+[INFO ] 2024-02-29 14:12:03.420 [main] Address - user is on login page
+[INFO ] 2024-02-29 14:13:42.454 [main] Address - user is on login page
+[INFO ] 2024-02-29 14:14:52.968 [main] Address - user is on login page
+[INFO ] 2024-02-29 14:15:46.009 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 14:16:44.350 [main] Subscription - User is on Login Page
+[INFO ] 2024-02-29 14:17:24.390 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 14:17:35.266 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 14:17:36.670 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 14:17:52.508 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 14:18:00.492 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 14:18:10.217 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 14:18:15.977 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 14:18:17.397 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 14:18:23.088 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 14:18:23.776 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 14:18:34.214 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 14:18:45.493 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 14:18:50.550 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 14:19:01.504 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 14:19:06.094 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 14:19:19.074 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 14:19:25.979 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 14:19:26.433 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 14:19:27.631 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 14:19:28.456 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 14:19:38.468 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 14:19:43.473 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 14:19:45.195 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 14:19:56.279 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 14:20:04.178 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 14:20:04.186 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 14:20:06.325 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 14:20:23.275 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 14:20:32.164 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 14:20:33.130 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 14:20:40.735 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 14:20:49.735 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 14:20:49.783 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 14:20:57.916 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 14:21:11.507 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 14:21:26.309 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 14:21:26.479 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 14:21:27.839 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 14:21:33.365 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 14:21:49.571 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 14:22:07.983 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 14:22:09.357 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 14:23:18.173 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-29 14:23:45.758 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-29 14:23:46.322 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-29 14:23:49.437 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-29 14:24:07.232 [main] Preschool_Locator - user is in the HomePage
+[INFO ] 2024-02-29 14:24:11.851 [main] Preschool_Locator - user can click on storeandpreschool
+[INFO ] 2024-02-29 14:24:12.464 [main] Preschool_Locator - user can click on findpreschool
+[INFO ] 2024-02-29 14:24:19.635 [main] Preschool_Locator - user switches to the new tab
+[INFO ] 2024-02-29 14:24:19.890 [main] Preschool_Locator - user clicks on the available city
+[INFO ] 2024-02-29 14:24:20.089 [main] Preschool_Locator - click on findmy preschool
+[INFO ] 2024-02-29 14:24:24.918 [main] Preschool_Locator - user must able to verify the firstcry Intellitots preschools in Banglore
+[INFO ] 2024-02-29 14:24:24.980 [main] Preschool_Locator - Verify page title
+[INFO ] 2024-02-29 14:26:19.897 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-29 14:26:33.337 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-29 14:27:12.758 [main] MovetoCart - user is on Login page
+[INFO ] 2024-02-29 14:27:51.929 [main] MovetoCart - user waits for manual otp login
+[INFO ] 2024-02-29 14:28:06.890 [main] DeleteFromShortlist - user is on login page
+[INFO ] 2024-02-29 14:28:45.707 [main] DeleteFromShortlist - user logs in 
+[INFO ] 2024-02-29 15:22:30.389 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 15:22:39.160 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 15:22:44.976 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 15:22:45.415 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 15:22:52.127 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 15:24:08.055 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 15:24:16.092 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 15:24:22.319 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 15:24:26.915 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 15:24:27.728 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 15:24:31.010 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 15:24:37.101 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 15:24:38.066 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 15:24:59.303 [main] MyProfile - user is on login page
+[INFO ] 2024-02-29 15:25:05.870 [main] MyProfile - user enters otp
+[INFO ] 2024-02-29 15:26:02.525 [main] UpdateProfile - user is on login page
+[INFO ] 2024-02-29 15:26:03.493 [main] UpdateProfile - user enters otp
+[INFO ] 2024-02-29 15:26:45.648 [main] Contact - user is on login page
+[INFO ] 2024-02-29 15:27:46.670 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 15:28:01.012 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 15:28:42.184 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 15:28:49.172 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 15:29:29.347 [main] Address - user is on login page
+[INFO ] 2024-02-29 15:30:20.087 [main] Address - user is on profile page
+[INFO ] 2024-02-29 15:30:23.699 [main] Address - user adds an address
+[INFO ] 2024-02-29 15:30:24.315 [main] Address - user tries to save changes
+[INFO ] 2024-02-29 15:30:24.748 [main] Address - user is able to save changes successfully
+[INFO ] 2024-02-29 15:30:39.983 [main] Address - user is on login page
+[INFO ] 2024-02-29 15:31:28.020 [main] Address - user is on login page
+[INFO ] 2024-02-29 15:32:22.543 [main] Address - user is on login page
+[INFO ] 2024-02-29 15:33:29.657 [main] Address - user is on login page
+[INFO ] 2024-02-29 15:34:28.185 [main] Address - user is on login page
+[INFO ] 2024-02-29 15:35:34.905 [main] Address - user is on login page
+[INFO ] 2024-02-29 15:36:51.918 [main] Address - user is on login page
+[INFO ] 2024-02-29 15:38:15.380 [main] Address - user is on login page
+[INFO ] 2024-02-29 15:41:35.050 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 15:42:13.742 [main] Subscription - User is on Login Page
+[INFO ] 2024-02-29 15:43:05.233 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 15:43:05.410 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 15:43:15.699 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 15:43:15.902 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 15:43:39.017 [main] FilterCartSteps - apply filters according to your requirements
+[INFO ] 2024-02-29 15:43:44.376 [main] FilterCartSteps - select a product and add to cart
+[INFO ] 2024-02-29 15:44:05.741 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 15:44:06.739 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 15:44:07.226 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 15:44:16.511 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 15:44:17.004 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 15:44:25.578 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 15:44:25.899 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 15:44:26.342 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 15:44:33.658 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 15:44:34.186 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 15:44:46.063 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 15:44:46.860 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 15:44:52.255 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 15:45:02.633 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 15:45:03.164 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 15:45:14.608 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 15:45:14.887 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 15:45:15.880 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 15:45:16.849 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 15:45:17.235 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 15:45:29.406 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 15:45:29.427 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 15:45:30.029 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 15:45:38.072 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 15:45:44.835 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 15:45:44.868 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 15:45:55.268 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 15:46:11.066 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 15:46:11.112 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 15:46:11.867 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 15:46:19.590 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 15:46:29.325 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 15:46:29.325 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 15:46:29.937 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 15:46:38.517 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 15:46:46.290 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 15:46:48.148 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 15:46:51.028 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 15:46:53.237 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 15:46:54.836 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 15:47:14.271 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 15:47:15.357 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 15:47:26.686 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-29 15:47:36.216 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-29 15:47:37.251 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-29 15:47:37.696 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-29 15:47:38.086 [main] StoreLocator - User switches to the new tab
+[INFO ] 2024-02-29 15:47:38.957 [main] StoreLocator - User views store page and click on search button with empty fields
+[INFO ] 2024-02-29 15:48:26.394 [main] Preschool_Locator - user is in the HomePage
+[INFO ] 2024-02-29 15:48:31.164 [main] Preschool_Locator - user can click on storeandpreschool
+[INFO ] 2024-02-29 15:48:35.205 [main] Preschool_Locator - user can click on findpreschool
+[INFO ] 2024-02-29 15:48:48.235 [main] Preschool_Locator - user switches to the new tab
+[INFO ] 2024-02-29 15:48:49.918 [main] Preschool_Locator - user clicks on the available city
+[INFO ] 2024-02-29 15:48:51.633 [main] Preschool_Locator - click on findmy preschool
+[INFO ] 2024-02-29 15:48:56.466 [main] Preschool_Locator - user must able to verify the firstcry Intellitots preschools in Banglore
+[INFO ] 2024-02-29 15:48:56.498 [main] Preschool_Locator - Verify page title
+[INFO ] 2024-02-29 15:52:55.230 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-29 15:52:58.666 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-29 15:53:37.002 [main] MovetoCart - user is on Login page
+[INFO ] 2024-02-29 15:54:08.370 [main] MovetoCart - user waits for manual otp login
+[INFO ] 2024-02-29 15:54:17.326 [main] DeleteFromShortlist - user is on login page
+[INFO ] 2024-02-29 15:54:48.412 [main] DeleteFromShortlist - user logs in 
+[INFO ] 2024-02-29 16:10:22.077 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 16:10:31.376 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 16:10:37.336 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 16:10:39.946 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 16:10:40.849 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 16:10:44.055 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 16:10:47.843 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 16:10:48.491 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 16:48:12.971 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 16:48:20.087 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 16:48:23.978 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 16:48:24.263 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 16:48:26.955 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 16:49:38.438 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 16:49:42.233 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 16:49:44.443 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 16:49:45.283 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 16:49:45.846 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 16:49:47.630 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 16:49:48.408 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 16:49:48.812 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 16:49:51.221 [main] MyProfile - user is on login page
+[INFO ] 2024-02-29 16:49:53.797 [main] MyProfile - user enters otp
+[INFO ] 2024-02-29 16:50:27.366 [main] UpdateProfile - user is on login page
+[INFO ] 2024-02-29 16:50:27.559 [main] UpdateProfile - user enters otp
+[INFO ] 2024-02-29 16:51:01.489 [main] Contact - user is on login page
+[INFO ] 2024-02-29 16:51:39.147 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 16:51:39.450 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 16:52:13.255 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 16:52:13.522 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 16:52:45.964 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 16:52:50.303 [main] Address - user is on login page
+[INFO ] 2024-02-29 16:53:22.944 [main] Address - user is on profile page
+[INFO ] 2024-02-29 16:53:24.064 [main] Address - user adds an address
+[INFO ] 2024-02-29 16:53:24.440 [main] Address - user tries to save changes
+[INFO ] 2024-02-29 16:53:24.768 [main] Address - user is able to save changes successfully
+[INFO ] 2024-02-29 16:53:29.406 [main] Address - user is on login page
+[INFO ] 2024-02-29 16:54:05.121 [main] Address - user is on login page
+[INFO ] 2024-02-29 16:54:37.731 [main] Address - user is on profile page
+[INFO ] 2024-02-29 16:54:38.806 [main] Address - user adds an address
+[INFO ] 2024-02-29 16:54:39.152 [main] Address - user tries to save changes
+[INFO ] 2024-02-29 16:54:39.479 [main] Address - user is able to save changes successfully
+[INFO ] 2024-02-29 16:54:43.725 [main] Address - user is on login page
+[INFO ] 2024-02-29 16:55:18.872 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 16:55:51.926 [main] deleteAddress - user is on profile page
+[INFO ] 2024-02-29 16:55:56.577 [main] Subscription - User is on Login Page
+[INFO ] 2024-02-29 16:56:29.786 [main] Subscription - user is on Profile Page
+[INFO ] 2024-02-29 16:56:30.359 [main] Subscription - User is able to manipulate subscriptions
+[INFO ] 2024-02-29 16:56:35.542 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 16:56:35.763 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 16:56:42.067 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 16:56:42.164 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 16:56:49.578 [main] FilterCartSteps - apply filters according to your requirements
+[INFO ] 2024-02-29 16:56:52.885 [main] FilterCartSteps - select a product and add to cart
+[INFO ] 2024-02-29 16:56:57.871 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 16:56:58.142 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 16:56:58.559 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 16:57:03.174 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 16:57:03.499 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 16:57:08.594 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 16:57:08.857 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 16:57:09.174 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 16:57:12.343 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 16:57:12.590 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 16:57:17.549 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 16:57:17.887 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 16:57:18.073 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 16:57:21.734 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 16:57:21.899 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 16:57:27.014 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 16:57:27.202 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 16:57:27.506 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 16:57:27.985 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 16:57:28.240 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 16:57:34.366 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 16:57:34.378 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 16:57:34.648 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 16:57:37.441 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 16:57:41.950 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 16:57:41.950 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 16:57:42.045 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 16:57:47.892 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 16:57:47.901 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 16:57:48.177 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 16:57:51.373 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 16:57:56.461 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 16:57:56.462 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 16:57:56.582 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 16:58:00.363 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 16:58:13.395 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 16:58:13.414 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 16:58:13.495 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 16:58:13.686 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 16:58:13.741 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 16:58:32.838 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 16:58:32.942 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 16:58:35.375 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-29 16:58:39.224 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-29 16:58:39.243 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-29 16:58:39.356 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-29 16:58:39.574 [main] StoreLocator - User switches to the new tab
+[INFO ] 2024-02-29 16:58:39.728 [main] StoreLocator - User views store page and click on search button with empty fields
+[INFO ] 2024-02-29 16:58:49.208 [main] Preschool_Locator - user is in the HomePage
+[INFO ] 2024-02-29 16:58:49.360 [main] Preschool_Locator - user can click on storeandpreschool
+[INFO ] 2024-02-29 16:58:49.686 [main] Preschool_Locator - user can click on findpreschool
+[INFO ] 2024-02-29 16:58:57.495 [main] Preschool_Locator - user switches to the new tab
+[INFO ] 2024-02-29 16:58:57.608 [main] Preschool_Locator - user clicks on the available city
+[INFO ] 2024-02-29 16:58:57.694 [main] Preschool_Locator - click on findmy preschool
+[INFO ] 2024-02-29 16:59:01.410 [main] Preschool_Locator - user must able to verify the firstcry Intellitots preschools in Banglore
+[INFO ] 2024-02-29 16:59:01.438 [main] Preschool_Locator - Verify page title
+[INFO ] 2024-02-29 16:59:36.020 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-29 16:59:38.547 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-29 17:00:15.789 [main] MovetoCart - user is on Login page
+[INFO ] 2024-02-29 17:00:46.030 [main] MovetoCart - user waits for manual otp login
+[INFO ] 2024-02-29 17:00:52.508 [main] DeleteFromShortlist - user is on login page
+[INFO ] 2024-02-29 17:01:22.738 [main] DeleteFromShortlist - user logs in 
+[INFO ] 2024-02-29 17:25:04.918 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 17:25:08.625 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 17:25:10.750 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 17:25:10.869 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 17:25:10.952 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 17:26:22.050 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 17:26:25.774 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 17:26:28.012 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 17:26:28.948 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 17:26:29.508 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 17:26:30.772 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 17:26:31.522 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 17:26:31.867 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 17:26:37.514 [main] MyProfile - user is on login page
+[INFO ] 2024-02-29 17:26:37.779 [main] MyProfile - user enters otp
+[INFO ] 2024-02-29 17:27:09.969 [main] MyProfile - user clicks on my profile page
+[INFO ] 2024-02-29 17:27:09.998 [main] MyProfile - Verify profile page via url
+[INFO ] 2024-02-29 17:27:10.001 [main] MyProfile - Profile Page Verified
+[INFO ] 2024-02-29 17:27:13.917 [main] UpdateProfile - user is on login page
+[INFO ] 2024-02-29 17:27:14.127 [main] UpdateProfile - user enters otp
+[INFO ] 2024-02-29 17:27:46.427 [main] UpdateProfile - user clicks on my profile page
+[INFO ] 2024-02-29 17:28:02.517 [main] UpdateProfile - user enters profile details
+[INFO ] 2024-02-29 17:28:04.514 [main] UpdateProfile - The profile details have been added
+[INFO ] 2024-02-29 17:28:31.605 [main] Contact - user is on login page
+[INFO ] 2024-02-29 17:29:06.339 [main] Contact - user is on My Profile page
+[INFO ] 2024-02-29 17:29:09.117 [main] Contact - user updates the contact
+[INFO ] 2024-02-29 17:29:09.118 [main] Contact - user is trying to verify submit otp page
+[INFO ] 2024-02-29 17:29:09.181 [main] Contact - user verifies the updation
+[INFO ] 2024-02-29 17:29:13.417 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 17:29:13.607 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 17:29:45.896 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 17:29:49.363 [main] UpdateChild - user tries to add child and its details
+[INFO ] 2024-02-29 17:29:50.550 [main] UpdateChild - user has successfully added a child
+[INFO ] 2024-02-29 17:29:54.280 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 17:29:54.474 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 17:30:26.686 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 17:30:30.532 [main] Address - user is on login page
+[INFO ] 2024-02-29 17:31:04.581 [main] Address - user is on profile page
+[INFO ] 2024-02-29 17:31:05.482 [main] Address - user adds an address
+[INFO ] 2024-02-29 17:31:05.830 [main] Address - user tries to save changes
+[INFO ] 2024-02-29 17:31:06.154 [main] Address - user is able to save changes successfully
+[INFO ] 2024-02-29 17:31:09.834 [main] Address - user is on login page
+[INFO ] 2024-02-29 17:31:44.134 [main] Address - user is on profile page
+[INFO ] 2024-02-29 17:31:44.937 [main] Address - user adds an address
+[INFO ] 2024-02-29 17:31:45.272 [main] Address - user tries to save changes
+[INFO ] 2024-02-29 17:31:45.588 [main] Address - user is able to save changes successfully
+[INFO ] 2024-02-29 17:31:49.409 [main] Address - user is on login page
+[INFO ] 2024-02-29 17:32:23.772 [main] Address - user is on profile page
+[INFO ] 2024-02-29 17:32:24.727 [main] Address - user adds an address
+[INFO ] 2024-02-29 17:32:25.046 [main] Address - user tries to save changes
+[INFO ] 2024-02-29 17:32:25.389 [main] Address - user is able to save changes successfully
+[INFO ] 2024-02-29 17:32:35.900 [main] Address - user is on login page
+[INFO ] 2024-02-29 17:33:08.422 [main] Address - user is on profile page
+[INFO ] 2024-02-29 17:33:09.264 [main] Address - user adds an address
+[INFO ] 2024-02-29 17:33:09.589 [main] Address - user tries to save changes
+[INFO ] 2024-02-29 17:33:09.933 [main] Address - user is able to save changes successfully
+[INFO ] 2024-02-29 17:33:13.817 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 17:33:48.398 [main] deleteAddress - user is on profile page
+[INFO ] 2024-02-29 17:33:58.792 [main] Subscription - User is on Login Page
+[INFO ] 2024-02-29 17:34:38.008 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 17:34:38.126 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 17:34:44.854 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 17:34:44.950 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 17:34:50.936 [main] FilterCartSteps - apply filters according to your requirements
+[INFO ] 2024-02-29 17:34:54.176 [main] FilterCartSteps - select a product and add to cart
+[INFO ] 2024-02-29 17:35:00.110 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 17:35:00.263 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 17:35:00.494 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 17:35:04.274 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 17:35:04.447 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 17:35:11.035 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 17:35:11.186 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 17:35:11.545 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 17:35:14.537 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 17:35:14.640 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 17:35:19.327 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 17:35:19.485 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 17:35:19.740 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 17:35:23.499 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 17:35:23.687 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 17:35:28.114 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 17:35:28.264 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 17:35:28.451 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 17:35:28.863 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 17:35:28.983 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 17:35:58.664 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 17:35:58.681 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 17:35:58.871 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 17:36:02.770 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 17:36:07.162 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 17:36:07.162 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 17:36:07.308 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 17:36:24.120 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 17:36:24.131 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 17:36:24.385 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 17:36:28.454 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 17:36:33.133 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 17:36:33.134 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 17:36:33.233 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 17:36:35.464 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 17:36:55.738 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 17:36:55.800 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 17:36:55.882 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 17:36:56.048 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 17:36:56.159 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 17:37:15.202 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 17:37:15.313 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 17:37:17.158 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-29 17:37:25.808 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-29 17:37:25.808 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-29 17:37:25.885 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-29 17:37:25.995 [main] StoreLocator - User switches to the new tab
+[INFO ] 2024-02-29 17:37:26.023 [main] StoreLocator - User views store page and click on search button with empty fields
+[INFO ] 2024-02-29 17:37:34.852 [main] Preschool_Locator - user is in the HomePage
+[INFO ] 2024-02-29 17:37:35.034 [main] Preschool_Locator - user can click on storeandpreschool
+[INFO ] 2024-02-29 17:37:35.194 [main] Preschool_Locator - user can click on findpreschool
+[INFO ] 2024-02-29 17:37:43.816 [main] Preschool_Locator - user switches to the new tab
+[INFO ] 2024-02-29 17:37:43.877 [main] Preschool_Locator - user clicks on the available city
+[INFO ] 2024-02-29 17:37:43.965 [main] Preschool_Locator - click on findmy preschool
+[INFO ] 2024-02-29 17:37:48.445 [main] Preschool_Locator - user must able to verify the firstcry Intellitots preschools in Banglore
+[INFO ] 2024-02-29 17:37:48.461 [main] Preschool_Locator - Verify page title
+[INFO ] 2024-02-29 17:38:24.229 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-29 17:38:24.448 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-29 17:39:03.290 [main] MovetoCart - user is on Login page
+[INFO ] 2024-02-29 17:39:33.531 [main] MovetoCart - user waits for manual otp login
+[INFO ] 2024-02-29 17:39:39.240 [main] DeleteFromShortlist - user is on login page
+[INFO ] 2024-02-29 17:40:11.157 [main] DeleteFromShortlist - user logs in 
+[INFO ] 2024-02-29 18:17:33.795 [main] UpdateProfile - user is on login page
+[INFO ] 2024-02-29 18:17:33.982 [main] UpdateProfile - user enters otp
+[INFO ] 2024-02-29 18:18:06.279 [main] UpdateProfile - user clicks on my profile page
+[INFO ] 2024-02-29 18:18:23.703 [main] UpdateProfile - user enters profile details
+[INFO ] 2024-02-29 18:18:25.270 [main] UpdateProfile - The profile details have been added
+[INFO ] 2024-02-29 18:18:47.740 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 18:18:47.938 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 18:19:20.258 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 18:24:17.511 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 18:24:17.702 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 18:24:50.196 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 18:25:20.487 [main] UpdateChild - user deletes the child successfully
+[INFO ] 2024-02-29 18:27:32.050 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 18:27:32.243 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 18:28:04.434 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 18:31:59.546 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 18:31:59.736 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 18:32:50.957 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 18:32:52.582 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 18:33:28.908 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 18:33:33.119 [main] UpdateChild - user tries to add child and its details
+[INFO ] 2024-02-29 18:33:34.068 [main] UpdateChild - user has successfully added a child
+[INFO ] 2024-02-29 18:33:47.289 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 18:33:47.474 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 18:34:20.482 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 18:34:50.767 [main] UpdateChild - user deletes the child successfully
+[INFO ] 2024-02-29 18:35:38.014 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 18:36:11.872 [main] deleteAddress - user is on profile page
+[INFO ] 2024-02-29 18:39:28.866 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 18:40:01.926 [main] deleteAddress - user is on profile page
+[INFO ] 2024-02-29 18:45:23.343 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 18:45:57.298 [main] deleteAddress - user is on profile page
+[INFO ] 2024-02-29 18:45:57.923 [main] deleteAddress - user deletes address successfully
+[INFO ] 2024-02-29 18:46:59.507 [main] Subscription - User is on Login Page
+[INFO ] 2024-02-29 18:47:33.051 [main] Subscription - user is on Profile Page
+[INFO ] 2024-02-29 18:47:33.550 [main] Subscription - User is able to manipulate subscriptions
+[INFO ] 2024-02-29 18:52:36.289 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 18:52:39.583 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 18:52:41.244 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 18:52:41.344 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 18:52:41.417 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 18:53:52.527 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 18:53:56.799 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 18:53:58.725 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 18:53:59.514 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 18:54:00.049 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 18:54:01.332 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 18:54:01.927 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 18:54:02.309 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 18:54:06.514 [main] MyProfile - user is on login page
+[INFO ] 2024-02-29 18:54:08.161 [main] MyProfile - user enters otp
+[INFO ] 2024-02-29 18:54:40.361 [main] MyProfile - user clicks on my profile page
+[INFO ] 2024-02-29 18:54:40.389 [main] MyProfile - Verify profile page via url
+[INFO ] 2024-02-29 18:54:40.391 [main] MyProfile - Profile Page Verified
+[INFO ] 2024-02-29 18:54:43.925 [main] UpdateProfile - user is on login page
+[INFO ] 2024-02-29 18:54:44.112 [main] UpdateProfile - user enters otp
+[INFO ] 2024-02-29 18:55:17.565 [main] Contact - user is on login page
+[INFO ] 2024-02-29 18:55:51.202 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 18:55:51.459 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 18:56:25.041 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 18:56:25.236 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 18:56:57.397 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 18:57:27.609 [main] UpdateChild - user deletes the child successfully
+[INFO ] 2024-02-29 18:57:31.516 [main] Address - user is on login page
+[INFO ] 2024-02-29 18:58:06.696 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 18:58:39.378 [main] deleteAddress - user is on profile page
+[INFO ] 2024-02-29 18:58:39.995 [main] deleteAddress - user deletes address successfully
+[INFO ] 2024-02-29 18:58:43.542 [main] Subscription - User is on Login Page
+[INFO ] 2024-02-29 18:59:16.416 [main] Subscription - user is on Profile Page
+[INFO ] 2024-02-29 18:59:16.957 [main] Subscription - User is able to manipulate subscriptions
+[INFO ] 2024-02-29 18:59:21.620 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 18:59:21.778 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 18:59:27.430 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 18:59:27.497 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 18:59:34.250 [main] FilterCartSteps - apply filters according to your requirements
+[INFO ] 2024-02-29 18:59:37.497 [main] FilterCartSteps - select a product and add to cart
+[INFO ] 2024-02-29 18:59:42.667 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 18:59:42.851 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 18:59:43.132 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 18:59:46.390 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 18:59:46.506 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 18:59:51.709 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 18:59:51.898 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 18:59:52.215 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 18:59:54.836 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 18:59:54.936 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 18:59:59.388 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 18:59:59.543 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 18:59:59.941 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 19:00:02.832 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 19:00:02.948 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 19:00:06.905 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 19:00:07.052 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 19:00:07.327 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 19:00:07.752 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 19:00:07.853 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 19:00:12.274 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 19:00:12.284 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 19:00:12.551 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 19:00:14.973 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 19:00:19.113 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 19:00:19.114 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 19:00:19.193 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 19:00:24.434 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 19:00:24.520 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 19:00:24.718 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 19:00:27.119 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 19:00:31.512 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 19:00:31.513 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 19:00:31.637 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 19:00:35.132 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 19:00:40.736 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 19:00:40.752 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 19:00:40.879 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 19:00:41.160 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 19:00:41.376 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 19:00:58.894 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 19:00:58.982 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 19:01:00.264 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-29 19:01:03.661 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-29 19:01:03.678 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-29 19:01:03.783 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-29 19:01:03.935 [main] StoreLocator - User switches to the new tab
+[INFO ] 2024-02-29 19:01:03.958 [main] StoreLocator - User views store page and click on search button with empty fields
+[INFO ] 2024-02-29 19:01:10.773 [main] Preschool_Locator - user is in the HomePage
+[INFO ] 2024-02-29 19:01:10.954 [main] Preschool_Locator - user can click on storeandpreschool
+[INFO ] 2024-02-29 19:01:11.073 [main] Preschool_Locator - user can click on findpreschool
+[INFO ] 2024-02-29 19:01:17.932 [main] Preschool_Locator - user switches to the new tab
+[INFO ] 2024-02-29 19:01:17.989 [main] Preschool_Locator - user clicks on the available city
+[INFO ] 2024-02-29 19:01:18.090 [main] Preschool_Locator - click on findmy preschool
+[INFO ] 2024-02-29 19:01:21.352 [main] Preschool_Locator - user must able to verify the firstcry Intellitots preschools in Banglore
+[INFO ] 2024-02-29 19:01:21.359 [main] Preschool_Locator - Verify page title
+[INFO ] 2024-02-29 19:01:59.349 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-29 19:01:59.562 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-29 19:02:34.195 [main] MovetoCart - user is on Login page
+[INFO ] 2024-02-29 19:03:04.433 [main] MovetoCart - user waits for manual otp login
+[INFO ] 2024-02-29 19:03:09.262 [main] DeleteFromShortlist - user is on login page
+[INFO ] 2024-02-29 19:03:39.490 [main] DeleteFromShortlist - user logs in 
+[INFO ] 2024-02-29 19:10:34.106 [main] LoginStepsDef - user should on the Firstcry website
+[INFO ] 2024-02-29 19:10:37.535 [main] LoginStepsDef - User click on the login
+[INFO ] 2024-02-29 19:10:40.920 [main] LoginStepsDef - User enters email
+[INFO ] 2024-02-29 19:10:41.022 [main] LoginStepsDef - User will click on continue button
+[INFO ] 2024-02-29 19:10:41.091 [main] LoginStepsDef - User manually enter the OTP
+[INFO ] 2024-02-29 19:11:52.270 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 19:11:55.966 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 19:11:58.079 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 19:11:58.932 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 19:11:59.438 [main] LoginExcelDataStep - User lands on the homepage
+[INFO ] 2024-02-29 19:12:00.600 [main] LoginExcelDataStep - User click on the login
+[INFO ] 2024-02-29 19:12:01.354 [main] LoginExcelDataStep - user enters email
+[INFO ] 2024-02-29 19:12:01.717 [main] LoginExcelDataStep - user clicks on continuebtn
+[INFO ] 2024-02-29 19:12:05.945 [main] MyProfile - user is on login page
+[INFO ] 2024-02-29 19:12:06.131 [main] MyProfile - user enters otp
+[INFO ] 2024-02-29 19:12:38.514 [main] MyProfile - user clicks on my profile page
+[INFO ] 2024-02-29 19:12:38.523 [main] MyProfile - Verify profile page via url
+[INFO ] 2024-02-29 19:12:38.523 [main] MyProfile - Profile Page Verified
+[INFO ] 2024-02-29 19:12:42.208 [main] UpdateProfile - user is on login page
+[INFO ] 2024-02-29 19:12:42.429 [main] UpdateProfile - user enters otp
+[INFO ] 2024-02-29 19:13:16.393 [main] Contact - user is on login page
+[INFO ] 2024-02-29 19:13:50.908 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 19:13:51.095 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 19:14:24.569 [main] UpdateChild - user is on login page
+[INFO ] 2024-02-29 19:14:24.855 [main] UpdateChild - user logs in via email
+[INFO ] 2024-02-29 19:14:57.205 [main] UpdateChild - user is on Profile page
+[INFO ] 2024-02-29 19:15:27.459 [main] UpdateChild - user deletes the child successfully
+[INFO ] 2024-02-29 19:15:31.233 [main] Address - user is on login page
+[INFO ] 2024-02-29 19:16:06.329 [main] deleteAddress - user is on login page
+[INFO ] 2024-02-29 19:16:40.023 [main] deleteAddress - user is on profile page
+[INFO ] 2024-02-29 19:16:44.084 [main] Subscription - User is on Login Page
+[INFO ] 2024-02-29 19:17:18.334 [main] Subscription - user is on Profile Page
+[INFO ] 2024-02-29 19:17:18.847 [main] Subscription - User is able to manipulate subscriptions
+[INFO ] 2024-02-29 19:17:24.467 [main] FilterCartSteps - Open the ChromeBrowser and launch application
+[INFO ] 2024-02-29 19:17:24.614 [main] FilterCartSteps - Maximize the browser
+[INFO ] 2024-02-29 19:17:30.408 [main] FilterCartSteps - The pages loades click any one category from homepage
+[INFO ] 2024-02-29 19:17:30.476 [main] FilterCartSteps - Move to the redirected page and scroll down to view products
+[INFO ] 2024-02-29 19:17:37.149 [main] FilterCartSteps - apply filters according to your requirements
+[INFO ] 2024-02-29 19:17:40.396 [main] FilterCartSteps - select a product and add to cart
+[INFO ] 2024-02-29 19:17:45.750 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 19:17:45.899 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 19:17:46.151 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 19:17:49.213 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 19:17:49.336 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 19:17:55.081 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 19:17:55.207 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 19:17:55.512 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 19:17:58.118 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 19:17:58.232 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 19:18:02.723 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 19:18:02.861 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 19:18:03.195 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 19:18:06.453 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 19:18:06.638 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 19:18:10.922 [main] SearchProductSteps - Open the Chrome and launch Firstcry application
+[INFO ] 2024-02-29 19:18:11.087 [main] SearchProductSteps - Maximize the Chrome browser window
+[INFO ] 2024-02-29 19:18:11.319 [main] SearchProductSteps - Enter the Product that has to be searched
+[INFO ] 2024-02-29 19:18:11.902 [main] SearchProductSteps - Click the Search button
+[INFO ] 2024-02-29 19:18:12.008 [main] SearchProductSteps - Verify the title
+[INFO ] 2024-02-29 19:18:16.482 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 19:18:16.497 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 19:18:16.969 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 19:18:19.530 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 19:18:23.485 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 19:18:23.485 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 19:18:23.569 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 19:18:31.429 [main] AddToCartSteps - Open the Firstcry application in chrome Browser
+[INFO ] 2024-02-29 19:18:31.437 [main] AddToCartSteps - Browser should be maximized
+[INFO ] 2024-02-29 19:18:31.620 [main] AddToCartSteps - Search for a product
+[INFO ] 2024-02-29 19:18:34.643 [main] AddToCartSteps - Click Search Button
+[INFO ] 2024-02-29 19:18:39.893 [main] AddToCartSteps - Click a specific product to view
+[INFO ] 2024-02-29 19:18:39.895 [main] AddToCartSteps - Click AddToCart for a product
+[INFO ] 2024-02-29 19:18:39.973 [main] AddToCartSteps - Verify the title of the product page
+[INFO ] 2024-02-29 19:18:41.618 [main] StoreLocatorFuncSteps - a User navigates to the URL
+[INFO ] 2024-02-29 19:18:46.653 [main] StoreLocatorFuncSteps - the User can access the Homepage
+[INFO ] 2024-02-29 19:18:46.669 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-02-29 19:18:46.786 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-02-29 19:18:46.933 [main] StoreLocatorFuncSteps - switches focus to the new tab
+[INFO ] 2024-02-29 19:18:46.964 [main] StoreLocatorFuncSteps - selects the store type, state, and city
+[INFO ] 2024-02-29 19:19:04.610 [main] StoreLocatorFuncSteps - clicks on the search button
+[INFO ] 2024-02-29 19:19:04.718 [main] StoreLocatorFuncSteps - the User should be able to view the store locations
+[INFO ] 2024-02-29 19:19:06.249 [main] StoreLocator - User navigates to the web URL
+[INFO ] 2024-02-29 19:19:10.665 [main] StoreLocator - User must be able to access HomePage
+[INFO ] 2024-02-29 19:19:10.672 [main] StoreLocator - User must click over the stores&preschool
+[INFO ] 2024-02-29 19:19:10.751 [main] StoreLocator - User must clicks on the find stores from drop down
+[INFO ] 2024-02-29 19:19:10.921 [main] StoreLocator - User switches to the new tab
+[INFO ] 2024-02-29 19:19:11.229 [main] StoreLocator - User views store page and click on search button with empty fields
+[INFO ] 2024-02-29 19:19:19.268 [main] Preschool_Locator - user is in the HomePage
+[INFO ] 2024-02-29 19:19:19.398 [main] Preschool_Locator - user can click on storeandpreschool
+[INFO ] 2024-02-29 19:19:19.532 [main] Preschool_Locator - user can click on findpreschool
+[INFO ] 2024-02-29 19:19:27.767 [main] Preschool_Locator - user switches to the new tab
+[INFO ] 2024-02-29 19:19:27.829 [main] Preschool_Locator - user clicks on the available city
+[INFO ] 2024-02-29 19:19:27.913 [main] Preschool_Locator - click on findmy preschool
+[INFO ] 2024-02-29 19:19:31.210 [main] Preschool_Locator - user must able to verify the firstcry Intellitots preschools in Banglore
+[INFO ] 2024-02-29 19:19:31.218 [main] Preschool_Locator - Verify page title
+[INFO ] 2024-02-29 19:20:05.049 [main] Addtoshortlist - user is on login page
+[INFO ] 2024-02-29 19:20:05.319 [main] Addtoshortlist - user logs in
+[INFO ] 2024-02-29 19:20:39.741 [main] MovetoCart - user is on Login page
+[INFO ] 2024-02-29 19:21:11.616 [main] MovetoCart - user waits for manual otp login
+[INFO ] 2024-02-29 19:21:18.387 [main] DeleteFromShortlist - user is on login page
+[INFO ] 2024-02-29 19:21:48.717 [main] DeleteFromShortlist - user logs in 

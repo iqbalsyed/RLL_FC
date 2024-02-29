@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<listeners>
+<listener class-name="com.util.ItestListenerClass"/>
+<listner class-name="com.util.Transformer"/>
+</listeners>
+<test name="FirstCry">
+<classes>
+<class name="runner.TestNgRunner"></class>
+</classes>
+</test>
+</suite>
